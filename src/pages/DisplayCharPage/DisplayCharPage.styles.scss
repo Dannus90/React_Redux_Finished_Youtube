@@ -1,0 +1,16 @@
+.char-page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e61f5b;
+    color: #fff;
+
+    .navigation-link {
+        text-decoration: none;
+        font-weight: bold;
+        color: #032f5a;
+        font-size: 1.2rem;
+    }
+}

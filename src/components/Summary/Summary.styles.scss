@@ -1,0 +1,24 @@
+.summary-container {
+    background: #fff;
+    border-radius: 5px;
+    padding: 5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 5rem;
+    width: 80%;
+    -webkit-box-shadow: -1px 0px 9px -3px rgba(255, 255, 255, 0.68);
+    -moz-box-shadow: -1px 0px 9px -3px rgba(255, 255, 255, 0.68);
+    box-shadow: -1px 0px 9px -3px rgba(255, 255, 255, 0.68);
+
+    .char-container {
+        h3 {
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            padding: 0.2rem;
+        }
+    }
+}

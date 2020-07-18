@@ -1,0 +1,14 @@
+.footer-container {
+    background-color: rgba(0, 0, 0, 0.85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .copy-right-container {
+        padding: 4rem;
+        p {
+            color: #fff;
+            font-size: 0.9rem;
+        }
+    }
+}
